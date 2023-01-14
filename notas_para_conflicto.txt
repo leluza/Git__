@@ -1,0 +1,1 @@
+texto generado desde rama dev, para lograr el conflicto con ramaConflicto al mergear
